@@ -15,7 +15,7 @@
   "dependencies": {
     "body-parser": "1.15.0",
     "cors": "2.7.1",
-    "ejs": "2.4.1",
+    "ejs": "2.6.1",
     "express": "4.13.4",
     "bluebird": "^3.5.4",
     "point-in-geopolygon": "^1.0.1",
